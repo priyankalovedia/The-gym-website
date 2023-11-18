@@ -1,0 +1,450 @@
+body{
+    background-color: white;
+    
+    text-align: justify center;
+    align-items: center;
+}
+ .container{ 
+    background-image: url("yoga38.png"); 
+    background-size: 1500px 370px;
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+ }
+
+
+
+ button{
+  background-color: rgb(92, 178, 212);
+    color: white;
+    border: none;
+ }
+
+ .but{
+    background-color: rgb(92, 178, 212);
+    padding: 20px 50px 20px 50px;
+ }
+
+ /* .but button{
+  margin-left: 50px;
+ } */
+
+ .but butt{
+  margin: 10px 40px 10px 40px;
+ }
+
+ #but{
+   margin-left: 60%;   
+ }
+
+ .butt button:hover{
+  background-color: white;
+  color:blue;
+ }
+ table{
+    background-color: rgb(78, 183, 224);
+    color: white;
+    /* border: 2px solid white; */
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    width: 700px;
+    
+ }
+ table , td , tr{
+padding: 30px;
+border: 2px solid white;
+border-collapse: collapse;
+text-align: justify;
+
+ }
+ td{
+  font-size: 20px;
+ }
+
+ .table{
+  margin-left: 30%;
+ 
+  }
+
+ /* p{
+    text-align: center;
+ } */
+
+ #kc{
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: 800;
+   color: rgb(7, 7, 89);
+   margin-top: -23px;
+   margin-left: 50px;
+ }
+ 
+.kc{
+  margin-left: 30%;
+}
+
+ .para{
+  margin-left: 25%;
+  margin-right: 25%;
+    text-align: justify;
+    word-spacing: normal;
+ }
+
+ h1{
+   background-color: rgba(0, 0, 0, 0.5);
+   text-align: justify;
+   color: white;
+   font-family: Arial, Helvetica, sans-serif; 
+   padding: 30px;
+ }
+
+ .all-mem{
+text-align: center;  
+    color: rgb(51, 187, 240);
+ }
+
+ h4{
+   color: rgb(7, 7, 88);
+ }
+
+ h5{
+   background-color: rgba(0, 0, 0, 0.5);
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+
+ #wel{
+    color: rgb(53, 77, 3);
+    margin-right: 25%;
+    margin-left: 25%;
+    font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+ .box{
+   background-color: rgba(0, 0, 0, 0.3);
+   /* padding-left: 10px; */
+   /* padding-top: 20px; */
+   /* padding: 30px; */
+ }
+ #box1{
+   background-color: rgb(21, 158, 212);
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   margin-top: -30px;
+ }
+ .box1{
+  color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   /* margin-left: 50px; */
+   /* margin-top: 50px; */
+   margin: 10px 800px 40px 300px;
+ }
+
+ #box{
+   background-color: rgb(27, 173, 231);
+   padding: 20px 5px 20px 50px;
+   color: white;
+ }
+
+ #box4{
+  background-color: rgba(0, 0, 0, 0.5);
+   color: white;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 5px;
+   /* margin: 10px 800px 40px 300px; */
+ }
+
+ #img{
+  margin-left: 18%;
+ }
+
+ a {
+  text-decoration: none;
+ }
+
+ /* #HOME{
+  background-color:rgb(230, 230, 24);
+  color: RED BLUE violet orange;
+  text-align: center;
+ } */
+ .gym{
+  text-align: center;
+ }
+ .table2{
+grid-column-start: 1; 
+grid-column-end: 2;
+ }
+
+#tabhead{
+  text-align: center;
+  font-size: 24px;
+  font-weight: 900;
+}
+
+td{
+  padding: 30px;
+  text-align: center;
+}
+
+#gym_but2{
+  background-color: red;
+  color:white ;
+  padding: 10px 10px 10px 10px;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#gym_but1{
+  background-color:rgb(16, 147, 198);
+  color:white ;
+  padding: 10px 10px 10px 10px ;
+  font-size: medium;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.click{
+  margin-left: 365px;
+}
+
+
+.table2{
+  margin-left: 25%;
+}
+
+.bgym{
+  background-color: rgb(25, 152, 202);
+  padding: 10px;
+}
+#bgym{
+  
+  background-color: rgb(25, 152, 202);
+  color: white;
+  margin-left: 60px;
+  /* padding-right: 60px; */
+  font-size: medium;
+  padding: 20px 20px 0px 20px;
+  text-align: center;
+}
+
+.foot{
+  background-color: rgb(57, 186, 237);
+  padding-top: 20px;
+}
+
+#foot{
+   background-color: rgb(27, 173, 231);
+  color: white;
+  font-size: medium;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+}
+
+#but_gym{
+  margin-left: 90%;   
+}
+
+#gym_up_img{
+  padding: 0px 0px 0px 0px ;
+  margin: 0px 0px 0px -35px ;
+}
+
+#mem_op{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: xx-large;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.discount{
+  text-align: center;
+  background-color: rgb(27, 173, 231);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: arial;
+  
+}
+
+#offer{
+  font-size: small;
+  font-weight: normal;
+  color: rgb(229, 229, 229);
+}
+
+.discount button{
+  background-color: rgb(27, 173, 231);
+  color:white;
+  border: 2px solid white;
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#more{
+  padding: 5px 20px 5px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+  color: rgb(204, 201, 201);
+  background-color: rgb(70, 179, 221);
+}
+#container2 {
+  margin-left: -50px;
+  margin-bottom: -40px;
+}
+
+#martial{
+  text-align: center;
+  font-size: small;
+  font-weight: normal;
+  color: rgb(229, 229, 229);
+
+  
+}
+
+.mart{
+  text-align: center;
+  background-color: rgb(27, 173, 231);
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: arial;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 10px 500px 40px 500px;
+  
+}
+
+.mart button{
+  background-color: rgb(27, 173, 231);
+  color:white;
+  border: 2px solid white;
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bmart{
+  background-color: rgb(25, 152, 202);
+  padding: 20px;
+}
+#bmart{
+  background-color: rgb(25, 152, 202);
+  color: white;
+  margin-left: 50px;
+  font-size: medium;
+  padding: 20px;
+  
+}
+
+.more_but_all_page{
+  background-color: rgb(32, 169, 224);
+  color: white;
+  text-align: left;
+  padding-left: 25%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type="text"],input[type="email"]{
+  background-color: skyblue;
+  border: none;
+  color: white;
+}
+
+textarea{
+  background-color: skyblue;
+  border: none;
+  color: white;
+}
+.more_but_all_page button{
+background-color: red;
+color: white;
+padding: 13px 10px 13px 10px ;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#con{
+  background-color: rgb(32, 169, 224);
+  color: white;
+  
+  font-size: small;
+  padding: 30px 30px 30px 30px;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.con{
+  margin-left: 0%;
+  font-size: small;
+}
+input[type="text"]::placeholder{
+  color: white;
+  padding:20px;
+  }
+
+input[type="email"]::placeholder{
+  color: white;
+  padding:20px;
+}
+
+#message::placeholder{
+  color: white;
+  padding:8px 10px 10px 20px;
+}
+
+.personal{
+  margin-left: 0%;
+  font-size: small;
+  /* background-color: rgb(245, 239, 239); */
+  background-color: whitesmoke;
+  color: rgb(92, 85, 85);
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  border: none;
+}
+
+
+#personal_membership{
+  background-color: whitesmoke;
+  color: rgb(70, 176, 209);
+  font-size: large;
+  font-weight: 450;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.personal input[type="text"],input[type="email"]{
+  background-color: white;
+  border: none;
+  color: rgb(222, 210, 210);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+select{
+  color: rgb(92, 85, 85);
+}
+
+file{
+  color: rgb(92, 85, 85);
+}
+.personal button{
+  background-color: red;
+  color: rgb(92, 85, 85);
+  padding: 10px 15px 10px 15px;
+}
+
+/* .cont3{
+  background-color: white;
+  padding: 20px;
+  color: indigo;
+  margin-right:80% ;
+  margin-top: 10%;
+  text-align: center;
+}
+
+#cont3{
+  color: red;
+  font-size: smaller;
+} */
+.personal table{
+  border: none;
+}
